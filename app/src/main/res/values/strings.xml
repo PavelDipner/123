@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WA AI Wrapper</string>
+    <string name="status_ready">Бот готов (Зеленый)</string>
+    <string name="status_error">Ошибка (Красный)</string>
+    <string name="select_file">Выбрать файл базы</string>
+    <string name="auto_mode">Авто-режим</string>
+    <string name="manual_mode">Ручной режим (!!!)</string>
+</resources>
